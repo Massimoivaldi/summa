@@ -10,3 +10,4 @@ Il web non e' un luogo per iniziati dove esistono misteri da svelare. E' semplic
 
 
 * [Dominio: quale, come, dove](https://github.com/Massimoivaldi/summa/blob/master/dominio.md)
+* [Hosting: occhio](https://github.com/Massimoivaldi/summa/blob/master/hosting.md)
