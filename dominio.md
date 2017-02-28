@@ -14,7 +14,7 @@ Qui stiamo nel campo delle ipotesi, e la soluzione varia da caso a caso. Una ris
 
 * [How to Choose a Domain Name](https://moz.com/blog/how-to-choose-a-domain-name-whiteboard-friday) 
 
-Tradotto in italiano piu' o meno integralmenteo interpretato da molti professionisti che provano a darvi buoni suggerimenti e nello stesso tempo vi vendono i loro servizi in maniera che informazione e vendita diventino tutt'uno. Ho provato a scegliere le risorse piu' interessanti, leggetele ma non registrate nulla prima di aver finito la lettura di questo capitolo.
+Tradotto in italiano piu' o meno integralmente o interpretato da molti professionisti che provano a darvi buoni suggerimenti e nello stesso tempo vi vendono i loro servizi in maniera che informazione e vendita diventino tutt'uno. Ho provato a scegliere le risorse piu' interessanti, leggetele ma non registrate nulla prima di aver finito la lettura di questo capitolo.
 
 * [Come scegliere il giusto nome del dominio](http://www.dominiwin.it/scelta-nome-registrazione-dominio.html) 
 * [7 passaggi per registrare un nome dominio- Infografica](http://blog.serverplan.com/2016/06/23/registrare-un-nome-dominio/) 
