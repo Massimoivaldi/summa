@@ -30,7 +30,18 @@ Per riassumere si puo dire che possiamo registrare:
 * il piu' breve possibile
 * il piu' facile possibile
 
+Di domini ne potrete comprare anche 27, usare un dominio invece che un altro non inficia gravemente il successo della vostra iniziativa, si puo' iniziare con un dominio e poi cambiare: non bisogna farsi prendele dall'ansia, dalla paranoia, dalle seghe mentali: e' solo un dominio, l'infarto e' piu' grave.
+
 ## Dove registrare il dominio
+
+Vi sono migliaia di providers dove resgistrare il vostro dominio e' importante scegliere un provider con queste caratteristiche:
+
+* il cui pannello di controllo sia chiaro
+* che permetta la gestione completa del DNS
+* che offra qualche plus gratuito, come qualche casella di posta o dei piani host base non cari
+
+Quello che attualmente io uso e che mi sento di consigliare e' register.it
+
 
 
 
