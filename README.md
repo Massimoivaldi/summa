@@ -15,6 +15,6 @@ Il mondo dei debuttanti nel web e' disseminato di trappole ed astuzie che tendon
 Parleremo anche di questo.
 
 
-* [Dominio: quale, come, dove](https://github.com/Massimoivaldi/summa/blob/master/dominio.md)
-* [Hosting o non hosting: occhio alla scelta](https://github.com/Massimoivaldi/summa/blob/master/hosting.md)
+1. [Dominio: quale, come, dove](https://github.com/Massimoivaldi/summa/blob/master/dominio.md)
+2. [Hosting o non hosting: occhio alla scelta](https://github.com/Massimoivaldi/summa/blob/master/hosting.md)
 ..* pippo
