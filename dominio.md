@@ -1,1 +1,1 @@
-
+#  Dominio: quale, come, dove
