@@ -16,4 +16,5 @@ Parleremo anche di questo.
 
 
 * [Dominio: quale, come, dove](https://github.com/Massimoivaldi/summa/blob/master/dominio.md)
-* [Hosting: occhio alla scelta](https://github.com/Massimoivaldi/summa/blob/master/hosting.md)
+* [Hosting o non hosting: occhio alla scelta](https://github.com/Massimoivaldi/summa/blob/master/hosting.md)
+* * pippo
