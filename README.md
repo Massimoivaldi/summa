@@ -6,7 +6,7 @@ Riportare la formazione sul giusto piano e' fondamentale per la creazione di nuo
 
 E' sempre stata mia convinzione che la conoscenza debba essere pubblica, ed il lavoro retribuito. Tutti devono poter avere accesso a risorse pubbliche, per formarsi e poter competere per ottenere lavori, come dipendenti o come imprenditori, poco importa.
 
-Il web non e' un luogo per iniziati dove esistono misteri da svelare. E' semplicemente un luogo dove convivono moltissimi approcci e moltissime tecnologie in continua evoluzione, ed e' solo la conoscenza di queste che permette di scegliere l'utilita' o la convenienza di un determinato approccio rispetto ad un altro.
+Il web non e' un luogo per iniziati dove esistono misteri da svelare. E' semplicemente un luogo dove convivono moltissimi approcci e moltissime tecnologie in continua evoluzione, ed e' solo la conoscenza di queste che permette di scegliere l'utilita' o la convenienza di un determinato approccio rispetto ad un altro. La maggior parte di queste tecnologie e' pubblica. Quindi non c'e' nessun merito nel diffonderla.
 
 Una cosa molto importante per chi vuole avvicinarsi al mondo del web e' l'utilizzo della lingua ***inglese*** . Quella merita un' attenzione particolare perche' il mondo del web parla inglese. Non conoscerla vuol dire essere tagliati fuori dalla maggior parte delle risorse e delle opportunita' che il web offre, e di essere alla merce' di chi propone testi tradotti nella nostra lingua. Testi che spesso sono adattati ad arte per servire allo scopo di chi li traduce.
 
