@@ -8,7 +8,7 @@ E' sempre stata mia convinzione che la conoscenza debba essere pubblica, ed il l
 
 Il web non e' un luogo per iniziati dove esistono misteri da svelare. E' semplicemente un luogo dove convivono moltissimi approcci e moltissime tecnologie in continua evoluzione, ed e' solo la conoscenza di queste che permette di scegliere l'utilita' o la convenienza di un determinato approccio rispetto ad un altro.
 
-Una cosa molto importante per chi vuole avvicinarsi al mondo del web e' l'utilizzo della lingua *** inglese *** . Quella merita un' attenzione particolare perche' il mondo del web parla inglese. Non conoscerla vuol dire essere tagliati fuori dalla maggior parte delle risorse e delle opportunita' che il web offre, e di essere alla merce' di chi propone testi tradotti nella nostra lingua. Testi che spesso sono adattati ad arte per servire allo scopo di chi li traduce.
+Una cosa molto importante per chi vuole avvicinarsi al mondo del web e' l'utilizzo della lingua ***inglese*** . Quella merita un' attenzione particolare perche' il mondo del web parla inglese. Non conoscerla vuol dire essere tagliati fuori dalla maggior parte delle risorse e delle opportunita' che il web offre, e di essere alla merce' di chi propone testi tradotti nella nostra lingua. Testi che spesso sono adattati ad arte per servire allo scopo di chi li traduce.
 
 Il mondo dei debuttanti nel web e' disseminato di trappole ed astuzie che tendono a far guadagnare chi vende e non a formare chi vuole apprendere.
 
