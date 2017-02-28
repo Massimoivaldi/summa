@@ -18,3 +18,10 @@ Parleremo anche di questo.
 1. [Dominio: quale, come, dove](https://github.com/Massimoivaldi/summa/blob/master/dominio.md)
 2. [Hosting o non hosting: occhio alla scelta](https://github.com/Massimoivaldi/summa/blob/master/hosting.md)
 ..* pippo
+
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
