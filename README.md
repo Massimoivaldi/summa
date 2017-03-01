@@ -18,12 +18,12 @@ Parleremo anche di questo.
 1. [Dominio: quale, come, dove](https://github.com/Massimoivaldi/summa/blob/master/dominio.md)
 2. [Hosting o non hosting: occhio alla scelta](https://github.com/Massimoivaldi/summa/blob/master/hosting.md)
 
-* Sito
+3. Sito, come farlo, quale, dove, perche'
 
 * [Siti senta bisogno di host](https://github.com/Massimoivaldi/summa/blob/master/siti/premade.md)
 * siti statici html/css
 
-### CMS
+3. CMS
 
 * Hosted blogs
 * Wordpress
@@ -31,7 +31,7 @@ Parleremo anche di questo.
 * Joomla
 * Ghost
 
-### Ecommerce
+3. Ecommerce
 
 * Prestashop
 * Magento
