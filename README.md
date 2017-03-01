@@ -23,7 +23,7 @@ Parleremo anche di questo.
 * [Siti senta bisogno di host](https://github.com/Massimoivaldi/summa/blob/master/siti/premade.md)
 * siti statici html/css
 
-3. CMS
+* ***CMS***
 
 * Hosted blogs
 * Wordpress
@@ -31,7 +31,7 @@ Parleremo anche di questo.
 * Joomla
 * Ghost
 
-3. Ecommerce
+* ***Ecommerce***
 
 * Prestashop
 * Magento
