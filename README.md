@@ -20,7 +20,7 @@ Parleremo anche di questo.
 3. [Siti senza bisogno di host](https://github.com/Massimoivaldi/summa/blob/master/siti/premade.md)
 4. [Siti statici html/css/js fraweworks, templates, playgrounds](https://github.com/Massimoivaldi/summa/blob/master/siti/statici.md)
 
-* ***CMS***
+
 
 * Hosted blogs
 * Wordpress
