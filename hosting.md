@@ -22,12 +22,9 @@ Riassumendo:
 
 La spesa consigliabile e' al massimo di 10 eur al mese. Ci sono una miriade di servizi, io torno a consigliare, se avete registrato il dominio con register.it, di acquistare anche l'hosting presso di loro. Diversamente qualsiasi altro va bene purche' abbia ( e per abitudine chiedete sempre conferma alservizio vendita prima di registrare qualsiasi servizio)
 
-* La possibilita' di ospitare un dominio registrato presso un mantainer esterno
-* La possibilita' di installare certificati https
-* Un accesso ssh
-
-_Che e' 'sta roba? Chiederete voi... Non preoccupatevene per adesso, in seguito tornera' utile-
-
+* La possibilita' di ospitare un dominio registrato presso un mantainer esterno (per puntare il dominio apena registrato)
+* La possibilita' di installare certificati https (per poter gestire, volendo, un accorgimento di sicurezza sul vostro sito)
+* Un accesso ssh (per permettere operazioni di mmanutenzione piu' velocemente)
 
 ### Hosting offshore
 
