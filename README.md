@@ -17,11 +17,8 @@ Parleremo anche di questo.
 
 1. [Dominio: quale, come, dove](https://github.com/Massimoivaldi/summa/blob/master/dominio.md)
 2. [Hosting o non hosting: occhio alla scelta](https://github.com/Massimoivaldi/summa/blob/master/hosting.md)
-
-3. Sito, come farlo, quale, dove, perche'
-
-* [Siti senza bisogno di host](https://github.com/Massimoivaldi/summa/blob/master/siti/premade.md)
-* [Siti statici html/css](https://github.com/Massimoivaldi/summa/blob/master/siti/statici.md)
+3. [Siti senza bisogno di host](https://github.com/Massimoivaldi/summa/blob/master/siti/premade.md)
+4. [Siti statici html/css/js fraweworks, templates, playgrounds](https://github.com/Massimoivaldi/summa/blob/master/siti/statici.md)
 
 * ***CMS***
 
