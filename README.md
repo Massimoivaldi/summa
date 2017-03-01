@@ -20,7 +20,7 @@ Parleremo anche di questo.
 
 3. Sito, come farlo, quale, dove, perche'
 
-* [Siti senta bisogno di host](https://github.com/Massimoivaldi/summa/blob/master/siti/premade.md)
+* [Siti senza bisogno di host](https://github.com/Massimoivaldi/summa/blob/master/siti/premade.md)
 * [Siti statici html/css](https://github.com/Massimoivaldi/summa/blob/master/siti/statici.md)
 
 * ***CMS***
